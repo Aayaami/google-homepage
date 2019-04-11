@@ -1,0 +1,56 @@
+
+li {
+    display: inline;
+}
+
+.topnav {
+    float: right;
+}
+
+#center {
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 42%;
+}
+
+#search {
+    margin-left: -65px;
+    width: 400px;
+    height: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 2px rgba(139, 135, 135, 0.5)
+}
+
+#centerButton {
+    margin-top: 50px;
+}
+
+.centerButton {
+    display: inline-block;
+    padding: 25px;
+    height: 40-px;
+    background-color: rgb(197, 197, 197);
+}
+
+#centerTip {
+    padding: 25px;
+    display: inline-block;
+}
+
+#bottomNav {
+    width: 100%;
+    position: absolute;
+    margin-top: 40%;
+    height: 90px;
+    background-color: gray;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
